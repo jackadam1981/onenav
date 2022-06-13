@@ -8,6 +8,7 @@
 	<meta name="keywords" content="<?php echo $site['keywords']; ?>" />
 	<meta name="description" content="<?php echo $site['description']; ?>" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="referrer" content="never">
 	<link rel='stylesheet' href='static/mdui/css/mdui.css'>
 	<link rel='stylesheet' href='static/jQuery-contextMenu/jquery.contextMenu.min.css'>
 	<link rel="stylesheet" href="static/font-awesome/4.7.0/css/font-awesome.css">
